@@ -22,3 +22,6 @@ Makanya, untuk meminimalisir terjadinya multi commits seperti yang saya lakukan 
 
 Nah, sekian dari saya malam ini, maaf jika ada kata-kata yang kurang jelas atau kurang berkenan. Akan saya update lagi jika saya menemukan hal-hal baru mengenai git ini. Blog post tentang git ini hanyalah apa yang saya pahami. Untuk kalimat terakhir, saya ingin menyampaikan, kalau ingin berkontribusi ke sebuah repository git, buatlah commit yang berkelas, dalam artian commit tersebut tidak memiliki arti ganda, simple, dan jelas fungsi dan efek baiknya pada repository tersebut. Hindari membuat membuat commit beberapa kali hanya untuk masalah yang sama dan hindari membuat commit yang tidak berarti. Agar kesalahan saya membuat multi commits tersebut tidak terulang untuk kedepannya.
 Sekian, selamat malam! ^^
+
+
+sumber: http://blog.coldev.co/apa-itu-git/
